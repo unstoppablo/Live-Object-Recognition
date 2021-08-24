@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Daisy</folder>
+	<filename>marguerite-daisy-types-1586981163.jpg</filename>
+	<path>/Users/pablolabbate/Documents/Projects/TFODCourse/Tensorflow/workspace/images/collectedimages/Daisy/marguerite-daisy-types-1586981163.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>214</ymin>
+			<xmax>1193</xmax>
+			<ymax>1111</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sunflower</folder>
+	<filename>5f066f66c0e74.image.jpg</filename>
+	<path>/Users/pablolabbate/Documents/Projects/TFODCourse/Tensorflow/workspace/images/collectedimages/Sunflower/5f066f66c0e74.image.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1175</width>
+		<height>1763</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sunflower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>525</ymin>
+			<xmax>776</xmax>
+			<ymax>1289</ymax>
+		</bndbox>
+	</object>
+</annotation>
