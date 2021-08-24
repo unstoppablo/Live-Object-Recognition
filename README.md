@@ -1,5 +1,7 @@
 # Tensor-Flow-Object-Recognition
-Using Tensor Flow and Machine learning to teach computer both image and live object detection. Currently it can recognizes facial expressions, gestures, and plants.
+Model has been trained to recognize a variety of things, including expressions such as smiles, frowns, squints, and more.
+
+Currently recognizes a variety of plants such as Orchids, Daisies, Roses, Pothos, and Sunflowers. Will implement this into a program that can recognize a given picture of a plant and suggest care options.
 
 Adapted from Nicholas Renotte's 5-hour Youtube course on Tensor Flow object recognition. Course focused on teaching hand gestures, adapted it to recognize facial expressions and currently a variety of plants.
 
@@ -21,3 +23,12 @@ https://github.com/scikit-learn-contrib/hdbscan/issues/457
 **Error: ValueError: 'images' must have either 3 or 4 dimensions.**
 Solution: This happened with image detection, usually the image name and path are incorrect. For example, if in section 9 you are giving it the path for the image you want it to recognize, but the filetype is "png" and you give it another one, this error will appear.
 
+
+**Resources:**
+https://www.youtube.com/watch?v=yqkISICHH-U&ab_channel=NicholasRenotte
+
+**Coding Requirements:**
+- Python 3.8 or higher
+- Tensor Flow --upgrade (2.3 currently)
+- Protobuf matplotlib==3.2
+- Numpy 1.20.0
