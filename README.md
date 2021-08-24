@@ -32,3 +32,9 @@ https://www.youtube.com/watch?v=yqkISICHH-U&ab_channel=NicholasRenotte
 - Tensor Flow --upgrade (2.3 currently)
 - Protobuf matplotlib==3.2
 - Numpy 1.20.0
+
+**Note:** This project was built within a virtual environment. Bellow are the required dependencies and commands to install them
+
+python -m pip install --upgrade pip
+pip install ipykernel
+python -m ipykernel install --user --name=**YOUR ENVIRONMENT NAME**
