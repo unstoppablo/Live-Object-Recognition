@@ -3,16 +3,11 @@
 
 Model has been trained to recognize a variety of things, including expressions such as smiles, frowns, squints, and more.
 
-Currently recognizes a variety of plants such as Orchids, Daisies, Roses, Pothos, and Sunflowers. Will implement this into a program that can recognize a given picture of a plant and suggest care options.
-
-Adapted from Nicholas Renotte's 5-hour Youtube course on Tensor Flow object recognition. Course focused on teaching hand gestures, adapted it to recognize facial expressions and currently a variety of plants.
+Adapted from Nicholas Renotte's 5-hour Youtube course on Tensor Flow object recognition. Course focused on teaching hand gestures, adapted it to recognize facial expressions.
 
 Here is an example of facial expression recognition:
 <img width="672" alt="Screen Shot 2021-08-16 at 3 58 25 PM" src="https://user-images.githubusercontent.com/66883135/130535990-34fa5a04-f767-431a-9676-c4cb478b9317.png">
 
-
-**Next steps to implement:**
-As I continue adding to the repo, I intend to build a plant recognition software where the user can upload a picture of a plant and the software recognizes the plant and suggests care options for it.
 
 **___________________________________________________________**
 
