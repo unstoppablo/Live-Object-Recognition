@@ -45,6 +45,6 @@ https://www.youtube.com/watch?v=yqkISICHH-U&ab_channel=NicholasRenotte
 
 **Note:** This project was built within a virtual environment. Bellow are the required dependencies and commands to install them
 
-python -m pip install --upgrade pip
-pip install ipykernel
-python -m ipykernel install --user --name=**YOUR ENVIRONMENT NAME**
+- python -m pip install --upgrade pip
+- pip install ipykernel
+- python -m ipykernel install --user --name=**YOUR ENVIRONMENT NAME**
